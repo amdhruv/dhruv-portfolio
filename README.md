@@ -47,11 +47,8 @@ This website is designed to:
 
 ---
 
-## 📷 Preview
 
-*Add screenshots or GIFs here for better presentation*
 
----
 
 ## 📬 Contact
 
